@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Java Projects<br>🌱 I’m currently learning Object Oriented Programming<br>⚡ Fun fact :<br>       “If I had eight hours tochop down a tree, <br>       I’d spend six hours sharpening my axe.”
+🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on Java Projects<br>🌱 I’m currently learning Object Oriented Programming<br>⚡ Fun fact :<br>       “If I had eight hours to chop down a tree, <br>       I’d spend six hours sharpening my axe.”
 
 
 ## 🌐 Socials:
